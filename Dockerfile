@@ -1,4 +1,3 @@
-# FROM alpine:3.15 AS build
 FROM openjdk:8-alpine AS build
 
 ENV NODE_VERSION=10.24.1

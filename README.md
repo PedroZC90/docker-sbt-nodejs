@@ -1,5 +1,6 @@
 # docker-sbt-nodejs
-a docker image with sbt and nodejs
+
+Docker image with sbt and nodejs
 
 ## References
 
